@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Babby\\Desktop\\Grinding For You\\Back\\ProEventos.API\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\Users\\Babby\\Desktop\\ProEventos\\Back\\ProEventos.API\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Babby\\Desktop\\Grinding For You\\Back\\ProEventos.API\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\Users\\Babby\\Desktop\\ProEventos\\Back\\ProEventos.API\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Babby\\Desktop\\Grinding For You\\Back\\ProEventos.API\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\Babby\\Desktop\\ProEventos\\Back\\ProEventos.API\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "C:\\Users\\Babby\\Desktop\\Grinding For You\\Back\\ProEventos.API\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\Users\\Babby\\Desktop\\ProEventos\\Back\\ProEventos.API\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\Babby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Babby\\Desktop\\Grinding For You\\Back\\ProEventos.API\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Users\\Babby\\Desktop\\ProEventos\\Back\\ProEventos.API\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Babby\\AppData\\Roaming\\NuGet\\NuGet.Config",

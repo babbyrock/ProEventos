@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ZYtiPCzqOB+qcWRlVEaWuEuxhdKRhcunWTKXBOCMcC/5CpBmJ/mueNMvJuc6k7Lv66/fS+clDRWKOXDpipjqw==",
+  "dgSpecHash": "AbsyqjZRmJNbAYWZNvIbApnRCtJ13CkIyopoJSPhVUpq6s/bCcVQPff+tUc3MpXCDkAbKQv2hLNtq7VA9jae2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Babby\\Desktop\\Grinding For You\\Back\\ProEventos.API\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\Users\\Babby\\Desktop\\ProEventos\\Back\\ProEventos.API\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Babby\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Babby\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
